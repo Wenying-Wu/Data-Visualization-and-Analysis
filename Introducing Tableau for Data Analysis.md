@@ -33,13 +33,13 @@ Users can use Data Interpreter, create calculated fields, and edit data source f
  
  
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Tableau%20for%20Data%20Analysis/image003.png">
+  <img width=40% height=40%" src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Tableau%20for%20Data%20Analysis/image003.png">
 </p>
 
 <p align="center">Figure 3. Create Calculated Field in Tableau Desktop</p>
  
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Tableau%20for%20Data%20Analysis/image004.png">
+  <img width=40% height=40%" src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Tableau%20for%20Data%20Analysis/image004.png">
 </p>
  
 <p align="center">Figure 4. Edit Data Source Filters in Tableau Desktop</p>
