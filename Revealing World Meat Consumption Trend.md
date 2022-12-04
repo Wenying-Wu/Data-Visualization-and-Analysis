@@ -7,7 +7,7 @@ As everyone knows, meat is one of the main food intakes, it is high in protein a
 After separating the meat types and comparing the meat consumption change from 2000 to 2019, one interesting finding is that the meat consumption per capita (across the world) of pork and beef is dropping, by 3% and 5% respectively. While lamb and poultry consumption is increased by 7%, and 51%, respectively. One of the underlying reasons pork and beef consumption is decreasing is that people are threatened by modern trends of healthy eating, for example, the WHO International Agency for Cancer Research (IARC) suggests that red meats are more carcinogenic than previously thought.
 
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Revealing%20World%20Meat%20Consumption%20Trend/image001.png">
+  <img src="https://github.com/wenyingw/Data-Visualization-and-Analysis/blob/main/src/Revealing%20World%20Meat%20Consumption%20Trend/image001.png">
 </p>
 
 The 51% increase in poultry consumption and the fact that people in most countries consume more poultries are also surprising. This might also infer that the healthy eating theories significantly affect the meat consumption pattern. Most healthy eating theories say that white meat is generally healthier than red meat.

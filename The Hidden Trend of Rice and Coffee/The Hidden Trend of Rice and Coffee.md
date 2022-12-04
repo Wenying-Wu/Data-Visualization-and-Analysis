@@ -12,7 +12,7 @@ The spike in coffee prices around 2011 was a surprise to me as I did not expect 
 
 
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/The%20Hidden%20Trend%20of%20Rice%20and%20Coffee/image001.png">
+  <img src="https://github.com/wenyingw/Data-Visualization-and-Analysis/blob/main/src/The%20Hidden%20Trend%20of%20Rice%20and%20Coffee/image001.png">
 </p>
 
 The only obvious peak in the rice price is the one in 2008, and the reason I plot the percentage of difference graph (comparison with the price in 2000) is to examine this change further. We can see that the percentage change for rice is more than 200%, and the price difference for beef is more than 50%. I was confused about this trend because the price of these two commodities is changing drastically, but the coffee price has not changed much, and why the economic crisis is driving the price up instead of bringing the price down. Thanks to some further research, I realized that the cause of this price peak was not the economic crisis but the [2007-2008 world food price crisis](https://en.wikipedia.org/wiki/2007%E2%80%932008_world_food_price_crisis). And the great recession is instead the driving force behind the sharp drop in price in late 2008. 

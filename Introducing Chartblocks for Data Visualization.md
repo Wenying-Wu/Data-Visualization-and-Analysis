@@ -7,7 +7,7 @@ I am interested in whether there are changes in Australians’ consumption of di
 Chartblocks don’t have a built-in data cleaning function. The only way to check the abnormal values when using Chartblocks is to make graphs. Luckily, Chartblocks can build a chart in minutes with the easy-to-use chart designer. The data import wizard will take you through the process step by step, choose from dozens of chart types, then customize it from premade chart templates. Users can easily follow the guide to create a chart and edit the chart after finished as users’ needs. Users can even select colors by REB thus some company can easily use their brand colors.
  
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Chartblocks%20for%20Data%20Visualization/image001.gif">
+  <img src="https://github.com/wenyingw/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Chartblocks%20for%20Data%20Visualization/image001.gif">
 
 
 <p align="center">Figure 1: Creating Chart in Chartblocks
@@ -16,7 +16,7 @@ Chartblocks don’t have a built-in data cleaning function. The only way to chec
 The dataset does not contain missing values and duplicates, so I am not showing the work here. As we can see from the Figure 2, most interestingly, the consumption of the kilogram of poultry per capita is increasing through the years, and the per capita consumption of Sheep is decreasing. It may be because poultry can better meet people's balanced needs for health and food. Its high protein and low-fat characteristics are especially suitable for the elderly and fitness groups.
 
 <p align="center">
-  <img src="https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Chartblocks%20for%20Data%20Visualization/image002.png">
+  <img src="https://github.com/wenyingw/Data-Visualization-and-Analysis/blob/main/src/Introducing%20Chartblocks%20for%20Data%20Visualization/image002.png">
 </p>
 
 
