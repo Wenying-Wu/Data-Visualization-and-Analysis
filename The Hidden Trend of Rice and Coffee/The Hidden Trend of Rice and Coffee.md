@@ -1,7 +1,5 @@
 # The Hidden Trend of Rice and Coffee
 
-**By** Wenying Wu, 06/05/2022
-
 ## Context
 
 Looking at the previous post’s finding, which is that the consumption of meat per capita is increasing over time, I wondered what the historical trend of price change in food is. Therefore, this post utilizes a dataset from Kaggle, which contains both historical price and historical price adjusted for inflation of beef, coffee, and rice to examine the trends of historical price change. And I will be using the price adjusted for inflation records because the adjusted price is more capable of comparison with the price at a different time.
@@ -29,4 +27,4 @@ Guardian News and Media. (2011, April 21). Coffee prices expected to rise as a r
 
 Wikimedia Foundation. (2022, April 28). 2007–2008 world food price crisis. Wikipedia. https://en.wikipedia.org/wiki/2007%E2%80%932008_world_food_price_crisis 
 
- 
+<sub><sup>Edit on May 06, 2022</sup></sub>

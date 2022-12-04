@@ -1,7 +1,5 @@
 # Introducing Tableau for Data Analysis
 
-**By** Wenying Wu, 28/03/2022
-
 ## Why choose Tableau?
 
 Continuing from [Data Visualization using Chartblocks](https://github.com/Wenying-Wu/Data-Visualization-and-Analysis/blob/main/Data%20Visualization%20using%20Chartblocks.md), I am exploring what a visualization tool can provide without requiring programming knowledge. I am seeking a more powerful visualization tool, and Tableau as a market leader worldwide is worth everyone exploring. Tableau offers products including Tableau prep for ELT process, Tableau Desktop, Tableau Server, Tableau Mobile & Tableau Online for visualization. Users can easily choose according to their needs. I will focus on the Tableau desktop in this blog.
@@ -112,3 +110,4 @@ Tableau Desktop is a tool focused on data visualization, the data cleaning funct
 Overall, Tableau has a strong ability in data presentation and data exploration. Tableau is a good choice at the current stage if only to reduce work duplication, update charts and dashboards, focus more on visuals, and do not care about the expensive price. In my opinion, Tableau is not a better choice than PowerBI when the data is complex, and you have to create a lot of custom analysis metrics and reports and satisfy all kinds of whims.
  
 
+<sub><sup>Edit on Mar 28, 2022</sup></sub>

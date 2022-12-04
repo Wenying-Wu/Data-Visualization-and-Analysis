@@ -1,7 +1,5 @@
 # Revealing World Meat Consumption Trend
 
-**By** Wenying Wu, 02/05/2022
-
 ## Context
 As everyone knows, meat is one of the main food intakes, it is high in protein and fat that the human body needs. Increasing personal and family income and improved living standards are likely to increase meat consumption. On the other hand, more and more people are changing their diet to a vegan or vegetarian base, both on social media and with people around me. This phenomenon contrasts with the finding that overall meat consumption has increased in the past 20 years worldwide. Therefore, I decided to dig deeper into the same dataset to explore the change in different types of meat consumption in different countries. The [data](https://data.oecd.org/agroutput/meat-consumption.htm) used 2000 to 2019 historical records provided by the OECD Committee for Agriculture (COAG).
 
@@ -23,3 +21,4 @@ International Agency for Research on Cancer (IARC). IARC Monographs Evaluate Con
 
 OECD (2022), Meat consumption (indicator). doi: 10.1787/fa290fd0-en 
 
+<sub><sup>Edit on May 02, 2022</sup></sub>
